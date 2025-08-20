@@ -4,3 +4,5 @@ scipy
 tqdm
 graspnetAPI
 open3d
+torch
+torchvision
